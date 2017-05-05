@@ -11,7 +11,9 @@ Session April’17
 Ques:-Create a web page which will contain image of window layout as follows.
 When user will click on window’s elements like status bar, menu bar, title bar, ruler, display the information of respective elements in a separate window/document. (The information should be brief i.e. not more than 3-4 sentences.) 
 
-Solution can be viewed at https://ss22ever.github.io/assignment1/1/home.html
+Solutions can be viewed at
+
+https://ss22ever.github.io/assignment1/1/home.html
 
 Ques:-Create a web page that will have separate links to show map of India and World.
 When user will open a map of India, create links to display the information of each state i.e. highlighted in the map in a separate window/document. (The information should be brief i.e. not more than 3-4 sentences.) When user will open a world map, show the list of countries on clicking the image in a new window.
