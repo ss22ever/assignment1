@@ -6,7 +6,7 @@
 Session April’17
 (B.Tech (IT) VI Semester)
 
-										Total Marks-10
+										
 			
 Ques:-Create a web page which will contain image of window layout as follows.
 When user will click on window’s elements like status bar, menu bar, title bar, ruler, display the information of respective elements in a separate window/document. (The information should be brief i.e. not more than 3-4 sentences.) 
